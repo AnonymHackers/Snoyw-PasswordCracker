@@ -1,0 +1,8 @@
+pip install time
+pip install requests
+pip install json
+pip install itertools
+pip install pywifi
+pip install sys
+
+# If you have questions write it in the comments!
