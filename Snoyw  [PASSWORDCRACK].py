@@ -1,8 +1,11 @@
 import requests
 import json
 import sys
+import pywifi
 import time
 import itertools
+
+from pywifi import const
 
 chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-+!?_#"
 buchstaben = list(chars)
